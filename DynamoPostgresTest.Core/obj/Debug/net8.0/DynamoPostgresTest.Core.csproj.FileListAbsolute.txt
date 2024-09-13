@@ -1,0 +1,12 @@
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/bin/Debug/net8.0/DynamoPostgresTest.Core.deps.json
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/bin/Debug/net8.0/DynamoPostgresTest.Core.dll
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/bin/Debug/net8.0/DynamoPostgresTest.Core.pdb
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/DynamoPostgresTest.Core.csproj.AssemblyReference.cache
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/DynamoPostgresTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/DynamoPostgresTest.Core.AssemblyInfoInputs.cache
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/DynamoPostgresTest.Core.AssemblyInfo.cs
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/DynamoPostgresTest.Core.csproj.CoreCompileInputs.cache
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/DynamoPostgresTest.Core.dll
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/refint/DynamoPostgresTest.Core.dll
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/DynamoPostgresTest.Core.pdb
+/Users/anastasiabel/dotNet/console-dynamo-postgres-test/DynamoPostgresTest/DynamoPostgresTest.Core/obj/Debug/net8.0/ref/DynamoPostgresTest.Core.dll

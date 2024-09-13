@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pi1iDxpiWUS130o9T8k3ACyLb5KJXtS8WAG3h+F8OTA=",
+  "Source": "DynamoPostgresTest.WebApi",
+  "BasePath": "_content/DynamoPostgresTest.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
